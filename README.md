@@ -11,4 +11,4 @@ Simply copy the macro file to your macro folder in your Fiji directory and resta
 Acquire multi-channel hyperstack images by live cell imaging. Acquire FRET and CFP channels in a time-lapse acquisition. Run the macro and assign FRET and CFP channels. By using a selection, choose the object you want to analyze. The macro will measure mean intensities for the FRET Ratio image (FRET/CFP) followed by normalization to the first frame to calculate relative Ca2+ influx for each frame.
 
 # Citation
-Will be updated as soon as the publication is released. 
+The macro will be uploaded and the citation will be updated as soon as the publication is released. 
