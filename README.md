@@ -1,5 +1,5 @@
 # FRET-calcium-influx
-A FIJI / ImageJ macro to measure FRET based calcium entry into Golgi compartments
+A FIJI / ImageJ macro to measure FRET based relative calcium entry into Golgi compartments
 
 # Goal
 This macro facilitates FRET-based Ca2+ influx analysis of Golgi objects. The macro was designed for the Go-D1-cpv FRET Ca2+ sensor (Lissandron et al. 2010) using CFP and YFP as a FRET pair. It will also work for other common FRET pairs and sensors.   
