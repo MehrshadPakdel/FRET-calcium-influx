@@ -1,7 +1,9 @@
 /*
 ---------------------------------------------------------------------------------------------------
 					FRET Ca2+ influx V3.8
-					
+
+REQUIRES PLUGIN 'Ratio_Plus.java' available on https://imagej.nih.gov/ij/plugins/ratio-plus.html
+
 	* This macro facilitates FRET-based Ca2+ influx analysis of Golgi objects used in Deng et al., 2018
 	* Optimized for Go-D1-cpv (Lissandron et al. 2010) based Ca2+ sensor localizing to Golgi compartments
 	* User assigns channels FRET and CFP for up to 3 channel hyperstacks
@@ -17,11 +19,10 @@
 
 Mehrshad Pakdel
 
-pakdel@biochem.mpg.de 
 mehrshad.pakdel@posteo.de
 https://github.com/MehrshadPakdel
 
-October 15, 2019
+December 03, 2019
 ----------------------------------------------------------------------------------------------------
 */
 
