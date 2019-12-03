@@ -2,7 +2,11 @@
 A FIJI / ImageJ macro to measure FRET based relative calcium entry into Golgi compartments
 
 # Goal
-This macro facilitates FRET-based Ca2+ influx analysis of Golgi objects. The macro was designed for the Go-D1-cpv FRET Ca2+ sensor (Lissandron et al. 2010) using CFP and YFP as a FRET pair. It will also work for other common FRET pairs and sensors.   
+This macro facilitates FRET-based Ca2+ influx analysis of Golgi objects. The macro was designed for the Go-D1-cpv FRET Ca2+ sensor (Lissandron et al. 2010) using CFP and YFP as a FRET pair. It will also work for other common FRET pairs and sensors. 
+
+Use FRET_calcium_influx_V3.8 to quantify normalized calcium entry to the first frame of the movie presented as percentage ΔR/R0 of one single Golgi object per image. 
+
+Use FRET_ratio_image_generator_V1.1 to generate color-coded images displaying normalized calcium entry to the first frame of the movie presented as percentage ΔR/R0.    
 
 # Installation
 Simply copy the macro file to your macro folder in your [Fiji](https://imagej.net/Fiji) directory and restart Fiji. You can access the macro from the Plugin section in Fiji.    
